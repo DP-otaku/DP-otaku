@@ -17,10 +17,17 @@
 
 ---
 
-🚀 Fun Fact Zone
-- 🧩 My learning style = Batman’s detective brain + Iron Man’s engineering drive
-- 🍜 Crunching bugs by day, binging anime & k-dramas by night
-- 📈 Side interest in finance, investing, and building projects that intersect tech & money
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/98794011?v=4" width="100px" alt="Batman" /> 
+  <img src="https://avatars.githubusercontent.com/u/3645225?v=4" width="100px" alt="Iron Man" /> 
+  <img src="https://avatars.githubusercontent.com/u/100165715?v=4" width="100px" alt="Lightning McQueen" />
+</p>
+
+- 🧩 My learning style = 🦇 Batman’s detective brain + 🤖 Iron Man’s engineering drive + 🏁 Lightning McQueen’s tenacity and speed.
+
+- 🍜 Crunching bugs by day, binging anime & K-dramas by night — powered by instant ramen and plot twists.
+
+- 📈 Side interest in finance, investing, and building projects that blend tech + money (think Robinhood meets GitHub).
 
 ---
 
