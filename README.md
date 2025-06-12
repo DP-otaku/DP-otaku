@@ -18,10 +18,11 @@
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/98794011?v=4" width="100px" alt="Batman" /> 
-  <img src="https://avatars.githubusercontent.com/u/3645225?v=4" width="100px" alt="Iron Man" /> 
-  <img src="https://avatars.githubusercontent.com/u/100165715?v=4" width="100px" alt="Lightning McQueen" />
+  <img src="assets/Batman(2).jpeg" width="100px" />
+  <img src="assets/Iron Man.png" width="100px" />
+  <img src="assets/Lightning Mcqueen.jpeg" width="100px" />
 </p>
+
 
 - 🧩 My learning style = 🦇 Batman’s detective brain + 🤖 Iron Man’s engineering drive + 🏁 Lightning McQueen’s tenacity and speed.
 
