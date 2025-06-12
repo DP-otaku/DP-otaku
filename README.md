@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="assets/Batman(2).jpeg" width="100px" />
+  <img src="assets/Batman.png" width="100px" />
   <img src="assets/Iron Man.png" width="100px" />
   <img src="assets/Lightning Mcqueen.jpeg" width="100px" />
 </p>
